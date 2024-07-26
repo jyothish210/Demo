@@ -1,3 +1,6 @@
 This is a simple Readme file
 
-Adding updates branch
+Adding updates branchg
+
+
+Conflicts branch
