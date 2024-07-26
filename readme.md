@@ -4,3 +4,5 @@ Adding updates branchg
 
 
 Conflicts branch: Changes no 2
+
+A Main sentence added
